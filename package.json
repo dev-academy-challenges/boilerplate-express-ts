@@ -7,6 +7,9 @@
     "build": "tsc --project ./",
     "start": "npm run build && node ./dist/",
     "dev": "nodemon ./src/index.ts"
+  },"repository": {
+    "url": "https://github.com/dev-academy-challenges/boilerplate-express-ts",
+    "type": "git"
   },
   "author": "EDA",
   "license": "ISC",
